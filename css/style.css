@@ -1,0 +1,31 @@
+div[class^='col-'] {
+    border: 3px solid white;
+}
+
+.verde {
+    background-color: green;
+    height: 80px;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.rosa {
+    background-color: violet;
+    height: 80px;
+}
+
+.naranja {
+    background-color: orange;
+    height: 80px;
+}
+
+.azul {
+    background-color: blue;
+    height: 80px;
+}
+
+.row .col {
+    padding: 0 !important;
+}
